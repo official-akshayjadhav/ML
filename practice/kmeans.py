@@ -4,8 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
-# matplotlib inline
-
 x = -2 * np.random.rand(100, 2)
 x1 = 1 + 2* np.random.rand(50, 2)
 
